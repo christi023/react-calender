@@ -1,10 +1,11 @@
 import React from 'react';
+import Main from './Components/Main/Main';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>React Calender</h1>
+      <Main />
     </div>
   );
 }
